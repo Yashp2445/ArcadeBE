@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ArcadeOS.API/ArcadeOS.API.csproj" />
+  <Project Path="ArcadeOS.Data/ArcadeOS.Data.csproj" />
+  <Project Path="ArcadeOS.Domain/ArcadeOS.Domain.csproj" />
+</Solution>
